@@ -4,9 +4,9 @@ There are some my best works from the time i was passing Golang course with Cour
 
 # Links to my certificates 
 
-[**Getting started with go**](https://coursera.org/share/e6d3307fb3b4e8018aac9c14f6780f4b)
-[**Functions, Methods, and Interfaces in Go**](https://coursera.org/share/a3c6c8cf5a9315bd6d4b32d3fd9666d1)
-[**Concurrency in Go**](https://coursera.org/share/61377ac98a3e10a113cfd18be7aec15d)
+[**Getting started with go**](https://coursera.org/share/e6d3307fb3b4e8018aac9c14f6780f4b) <br />
+[**Functions, Methods, and Interfaces in Go**](https://coursera.org/share/a3c6c8cf5a9315bd6d4b32d3fd9666d1)<br />
+[**Concurrency in Go**](https://coursera.org/share/61377ac98a3e10a113cfd18be7aec15d)<br />
 
 
 
