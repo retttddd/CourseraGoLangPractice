@@ -2,6 +2,14 @@
 There are some my best works from the time i was passing Golang course with Coursera
 
 
+# Links to my certificates 
+
+**Getting started with go:**
+https://coursera.org/share/e6d3307fb3b4e8018aac9c14f6780f4b
+
+
+[https://coursera.org/share/a3c6c8cf5a9315bd6d4b32d3fd9666d1](**Functions, Methods, and Interfaces in Go**)
+
 # Concurrency In Go
 
 
@@ -71,5 +79,3 @@ There are some my best works from the time i was passing Golang course with Cour
    Your program should present the user with a prompt, “>”, to indicate that the user can type a request. Your program accepts one request at a time from the user, prints out the answer to the request, and prints out a new prompt. Your program should continue in this loop forever. Every request from the user must be a single line containing 2 strings. The first string is the name of an animal, either “cow”, “bird”, or “snake”. The second string is the name of the information requested about the animal, either “eat”, “move”, or “speak”. Your program should process each request by printing out the requested data.
 
    You will need a data structure to hold the information about each animal. Make a type called Animal which is a struct containing three fields:food, locomotion, and noise, all of which are strings. Make three methods called Eat(), Move(), and Speak(). The receiver type of all of your methods should be your Animal type. The Eat() method should print the animal’s food, the Move() method should print the animal’s locomotion, and the Speak() method should print the animal’s spoken sound. Your program should call the appropriate method when the user makes a request.
-
-4. 
