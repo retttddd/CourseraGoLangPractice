@@ -4,8 +4,8 @@ There are some my best works from the time i was passing Golang course with Cour
 
 # Links to my certificates 
 
-[**Getting started with go:**](ttps://coursera.org/share/e6d3307fb3b4e8018aac9c14f6780f4b)
-
+[**Getting started with go:**](https://coursera.org/share/e6d3307fb3b4e8018aac9c14f6780f4b)
+https://coursera.org/share/e6d3307fb3b4e8018aac9c14f6780f4b
 
 
 
