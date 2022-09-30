@@ -122,6 +122,6 @@ func main() {
 		specialSlices[sliceIndex].index = specialSlices[sliceIndex].index + 1
 
 	}
-	fmt.Println("\nSolid sorted slice:", resultSlicebig)
+	fmt.Println("\nSolid sorted slice :", resultSlicebig)
 
 }
