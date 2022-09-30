@@ -5,7 +5,7 @@ There are some my best works from the time i was passing Golang course with Cour
 # Concurrency In Go
 
 
-1. chopsticks.go :
+1. **chopsticks.go** :
    Implement the dining philosopher’s problem with the following constraints/modifications.
 
    There should be 5 philosophers sharing chopsticks, with one chopstick between each adjacent pair of philosophers.
@@ -24,17 +24,17 @@ There are some my best works from the time i was passing Golang course with Cour
 
    When a philosopher finishes eating (before it has released its locks) it prints “finishing eating <number>” on a line by itself, where <number> is the number of the philosopher.
 
-2. numberSort.go :
+2. **numberSort.go** :
    Write a program to sort an array of integers. The program should partition the array into 4 parts, each of which is sorted by a different goroutine. Each partition should be of approximately equal size. Then the main goroutine should merge the 4 sorted subarrays into one large sorted array.
    The program should prompt the user to input a series of integers. Each goroutine which sorts ¼ of the array should print the subarray that it will sort. When sorting is complete, the main goroutine should print the entire sorted list.
-3. raceCond.go :
+3. **raceCond.go** :
    Write two goroutines which have a race condition when executed concurrently. Explain what the race condition is and how it can occur.
 
 
 # Functions, Methods and Interfaces in Go 
 
 
-1. bubbleSort.go :
+1. **bubbleSort.go** :
    Write a Bubble Sort program in Go. The program
    should prompt the user to type in a sequence of up to 10 integers. The program
    should print the integers out on one line, in sorted order, from least to
@@ -52,7 +52,20 @@ There are some my best works from the time i was passing Golang course with Cour
    unction should take two arguments, a slice of integers and an index value i which
    indicates a position in the slice. The Swap() function should return nothing, but it should swap
    the contents of the slice in position i with the contents in position i+1.
-2. 
+2. **distance.go** :
+   Write a program which first prompts the user
+   to enter values for acceleration, initial velocity, and initial displacement.
+   Then the program should prompt the user to enter a value for time and the
+   program should compute the displacement after the entered time.
+
+   You will need to define and use a function
+   called GenDisplaceFn() which takes three float64
+   arguments, acceleration a, initial velocity vo, and initial
+   displacement so. GenDisplaceFn()
+   should return a function which computes displacement as a function of time,
+   assuming the given values acceleration, initial velocity, and initial
+   displacement. The function returned by GenDisplaceFn() should take one float64 argument t, representing time, and return one
+   float64 argument which is the displacement travelled after time t.
 
 
 
